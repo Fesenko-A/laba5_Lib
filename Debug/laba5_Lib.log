@@ -1,2 +1,2 @@
 ﻿  laba5_Lib.cpp
-F:\Programming\C++\laba5_Lib\laba5_Lib.cpp(7,23): error C3867: "Moneylib::Money::Read": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+  laba5_Lib.vcxproj -> F:\Programming\C++\laba5_StaticLib\Debug\laba5_Lib.exe
